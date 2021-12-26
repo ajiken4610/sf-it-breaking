@@ -17,3 +17,6 @@
     AjiMarkupScriptの仕様が決まってきた
     - 25日  
     AjiMarkupScriptのインタプリタの作成に取り掛かった
+    - 26日  
+    AjiMarkupScriptの構文解析プログラムの作成がだいぶ進んできた  
+    AjiMLの時は異常に書きあげるの早かったなぁ(仕様が決まってから2日)
