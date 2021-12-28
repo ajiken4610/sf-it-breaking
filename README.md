@@ -2,7 +2,7 @@
 　SFIT班の近況報告用れどめリポジトリです。  
 　正確にはIT班ではなく網代の活動報告です。  
 　気分的に自動翻訳調で書かれています。
-# Dashboard
+# DASHBOARD
 　現在、`AjiMarkupScript`を開発中です。  
 　`AjiMarkupScript`に関しては、[こちら](https://github.com/ajiken4610/ams-interpreter)をご覧ください。  
 # 方針
