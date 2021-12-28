@@ -11,6 +11,7 @@
 - CSSライブラリは[MDC](https://material-components.github.io/material-components-web-catalog/)を使う予定。
 - 企画の説明文などを書くときに、PlaneText、MD、AMSから選べるようにしたい。MDのパースは適当にライブラリを見繕うことにします。
 - 適当なAIは、適当なAIです。具体的に説明すると、ユーザーが企画を見た後にどの企画を見る傾向にあるかの統計を取って、傾向に応じてYoutubeの関連動画のような感じで並べて表示します。
+
 # 日記
 - 2021年
   - 12月
