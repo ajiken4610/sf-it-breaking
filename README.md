@@ -7,7 +7,7 @@
 　`AjiMarkupScript`に関しては、[こちら](https://github.com/ajiken4610/ams-interpreter)をご覧ください。  
 # 方針
 　2022年度サレ祭サイトは、去年、サイトへ企画を投稿するのを数人でやったのがあまりにも辛かったため、Youtubeのような自動化システムを組みます。
-- FirebaseのSPAとして設計する予定。Reactは使いませんが、Vue.jsは使います。あと自前のwindowlib.ts。
+- FirebaseのSPAとして設計する予定。Reactは使いませんが、Vue.jsは使います。~あと自前のwindowlib.tsはjQueryに依存しているため使用しない可能性が高いです。。
 - CSSライブラリは[MDC](https://material-components.github.io/material-components-web-catalog/)を使う予定。
 - 企画の説明文などを書くときに、PlaneText、MD、AMSから選べるようにしたい。MDのパースは適当にライブラリを見繕うことにします。
 - 適当なAIは、適当なAIです。具体的に説明すると、ユーザーが企画を見た後にどの企画を見る傾向にあるかの統計を取って、傾向に応じてYoutubeの関連動画のような感じで並べて表示します。
@@ -54,3 +54,5 @@
     - 9日  
     AMSの開発がなかなか進まない理由が分かった。`AbsAMSObject`というクラスがあったのだが、そもそもそのクラスは存在してはいけなかった。  
     カーソルバグってるし、書き換え作業めんどい(カーソルがバグってるのは関係ない)
+    - 10日  
+    AMSの構文解析は完了。構造を適当に表示することに成功。
