@@ -5,6 +5,7 @@
 # DASHBOARD
 　現在、`AjiMarkupScript`を開発中です。  
 　`AjiMarkupScript`に関しては、[こちら](https://github.com/ajiken4610/ams-interpreter)をご覧ください。  
+  VueとMDCとFirestoreの練習として、[AjiVoca](https://github.com/ajiken4610/ajvoca)を試しに作っています。
 # 方針
 　2022年度サレ祭サイトは、去年、サイトへ企画を投稿するのを数人でやったのがあまりにも辛かったため、Youtubeのような自動化システムを組みます。
 - FirebaseのSPAとして設計する予定。Reactは使いませんが、Vue.jsは使います。~あと自前のwindowlib.tsはjQueryに依存しているため使用しない可能性が高いです。。
@@ -58,3 +59,5 @@
     AMSの構文解析は完了。構造を適当に表示することに成功。
     - 12日  
     なんか最近忙しい。
+    - 22日  
+    AMSの実行系統を書き始めた。明日までに終わらせたい。ちなみに実行系統は英語で*EXECUTION FLOW*(本当にどうでもいい)
