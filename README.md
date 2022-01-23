@@ -5,7 +5,7 @@
  　誤字脱字等発見しましたら、修正してPRくださると幸いです。
 # DASHBOARD
 　現在、`AjiMarkupScript`を開発中です。  
-　`AjiMarkupScript`に関しては、[こちら](https://github.com/ajiken4610/ams-interpreter)をご覧ください。  
+　`AjiMarkupScript`に関しては、[こちら](https://github.com/ajiken4610/ams-interpreter-v2)をご覧ください。  
  　VueとMDCとFirestoreの練習として、[AjiVoca](https://github.com/ajiken4610/ajvoca)を試しに作っています。
 # 方針
 　2022年度サレ祭サイトは、去年、サイトへ企画を投稿するのを数人でやったのがあまりにも辛かったため、Youtubeのような自動化システムを組みます。
