@@ -12,7 +12,8 @@
 - FirebaseのSPAとして設計する予定。Reactは使いませんが、Vue.jsは使います。
 - Vue.js単体ではなくNuxtv3を使うかも。
 - おそらくPWA化すると思われます。
-- CSSライブラリは[MDC](https://material-components.github.io/material-components-web-catalog/)を使う予定。
+- ~~CSSライブラリは[MDC](https://material-components.github.io/material-components-web-catalog/)を使う予定。~~
+- CSSライブラリはBulmaを使う予定。
 - 企画の説明文などを書くときに、PlainText、MD、AMSから選べるようにしたい。MDのパースは適当にライブラリを見繕うことにします。
 - 適当なAIは、適当なAIです。具体的に説明すると、ユーザーが企画を見た後にどの企画を見る傾向にあるかの統計を取って、傾向に応じてYoutubeの関連動画のような感じで並べて表示します。
 
